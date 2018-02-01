@@ -1,0 +1,23 @@
+{
+  "name": "cell",
+  "version": "0.1.0",
+  "description": "my cell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkjlaokai/cell.git"
+  },
+  "author": "makj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkjlaokai/cell/issues"
+  },
+  "homepage": "https://github.com/mkjlaokai/cell#readme",
+  "dependencies": {
+    "hapi": "^17.2.0"
+  }
+}
